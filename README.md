@@ -1,12 +1,5 @@
 # VirtualBox and Kali
 ```
-name="Erik Argueta"
-univ="California state university east bay"
-
-screenfetch
-echo $name'@'$univ
-```
-
 Save the file as **screenfetch.gif**.
 
 **Challenges and Problems**: 
