@@ -1,7 +1,7 @@
 # VirtualBox and Kali
 ```
-name="Firstname  lastname"
-univ="University of Science"
+name="Erik Argueta"
+univ="California state university east bay"
 
 screenfetch
 echo $name'@'$univ
