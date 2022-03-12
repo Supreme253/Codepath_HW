@@ -1,6 +1,6 @@
 # VirtualBox and Kali
 ```
-name=""
+name="Firstname  lastname"
 univ="University of Science"
 
 screenfetch
